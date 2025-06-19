@@ -10,4 +10,4 @@
 
 ## The geometry ways include the no-fit polygon(NFP) and bottom-left fill(BLF)
 
-## NFP: orbit way(Incomplete implementation) and minkowski way(complet)
+## NFP: orbit way(incomplete implementation) and minkowski way(complete)
